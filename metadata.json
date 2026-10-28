@@ -1,0 +1,6 @@
+{
+  "name": "GlowSwap",
+  "description": "Verified pre-loved and overstock beauty, cosmetics, skincare, and fragrance resale marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

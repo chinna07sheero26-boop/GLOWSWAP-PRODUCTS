@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Starburst sparkle top-right -->
+    <path
+        android:fillColor="#FFD180"
+        android:pathData="M74,28 C74,33 76,36 81,36 C76,36 74,39 74,44 C74,39 72,36 67,36 C72,36 74,33 74,28 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M34,36 C34,39 35,41 38,41 C35,41 34,43 34,46 C34,43 33,41 30,41 C33,41 34,39 34,36 Z" />
+    <!-- Dropper Bulb -->
+    <path
+        android:fillColor="#F48FB1"
+        android:pathData="M50,25 C50,22.8 51.8,21 54,21 C56.2,21 58,22.8 58,25 L58,29 L50,29 Z" />
+    <!-- Dropper Cap / Collar -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M47,29 L61,29 A2,2 0 0,1 63,31 L63,35 A2,2 0 0,1 61,37 L47,37 A2,2 0 0,1 45,35 L45,31 A2,2 0 0,1 47,29 Z" />
+    <!-- Bottle Neck -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,37 L59,37 L59,41 L49,41 Z" />
+    <!-- Bottle Body Curved Flacon -->
+    <path
+        android:fillColor="#FFF0F5"
+        android:pathData="M43,41 L65,41 C68.3,41 71,43.7 71,47 L71,76 C71,81.5 66.5,86 61,86 L47,86 C41.5,86 37,81.5 37,76 L37,47 C37,43.7 39.7,41 43,41 Z" />
+    <!-- Bottle Interior Glow Gradient or Liquid Level -->
+    <path
+        android:fillColor="#F06292"
+        android:pathData="M40,56 C40,56 46,54 54,55 C62,56 68,54 68,54 L68,76 C68,79.9 64.9,83 61,83 L47,83 C43.1,83 40,79.9 40,76 Z" />
+    <!-- Gloss Highlight Stripe -->
+    <path
+        android:fillColor="#66FFFFFF"
+        android:pathData="M43,46 L47,46 L47,80 L43,78 Z" />
+    <!-- Small Sparkle Bottom -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M72,66 C72,68 73,69 75,69 C73,69 72,70 72,72 C72,70 71,69 69,69 C71,69 72,68 72,66 Z" />
+</vector>
